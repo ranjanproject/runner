@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pratik/Desktop/runner/add.cpp
+iostream
+-
+queue
+-
+
+/home/pratik/Desktop/runner/fun.h
+iostream
+-
+queue
+-
+
+/home/pratik/Desktop/runner/grab.cpp
+iostream
+-
+queue
+-
+
+/home/pratik/Desktop/runner/ran.cpp
+iostream
+-
+queue
+-
+cstdlib
+-
+ctime
+-
+
+/home/pratik/Desktop/runner/runner.cpp
+iostream
+-
+thread
+-
+queue
+-
+fun.h
+/home/pratik/Desktop/runner/fun.h
+

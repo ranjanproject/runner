@@ -1,0 +1,3 @@
+/home/pratik/Desktop/runner/CMakeFiles/rebuild_cache.dir
+/home/pratik/Desktop/runner/CMakeFiles/runner.dir
+/home/pratik/Desktop/runner/CMakeFiles/edit_cache.dir
