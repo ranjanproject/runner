@@ -1,5 +1,5 @@
 # winner annoucer(runner)!
-It is a C++ application which contains three threads A,B & C. Where A generates 100 integers and thread B and C runs to get the generated random numbers. The thread who gets the number such that their sum of numbers is maximum will be winner.
+It is a C++ application which contains three threads A,B & C. Where A generates 100 integers and thread B and C runs to get the generated random numbers. The thread who gets the numbers such that their sum of numbers is maximum will be the winner.
 
 #pre-requisite
  atleast c++11 compiler.
